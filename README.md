@@ -15,9 +15,9 @@ This project analyses the **NASA Battery Prognostics Dataset** (cells B0005, B00
 
 | Chapter | Question | Key Techniques |
 |---------|----------|---------------|
-| **1 — Degradation** | Which cells degrade fastest and why? | CTEs, LAG, RANK, NTILE, rolling window functions |
-| **2 — Operations** | How do charge conditions affect capacity retention? | CASE bucketing, Pearson correlation, percentile bands |
-| **3 — RUL Prediction** | Can we predict remaining useful life? | Feature engineering via SQL, exponential decay fit, linear regression |
+| **1 - Degradation** | Which cells degrade fastest and why? | CTEs, LAG, RANK, NTILE, rolling window functions |
+| **2 - Operations** | How do charge conditions affect capacity retention? | CASE bucketing, Pearson correlation, percentile bands |
+| **3 - RUL Prediction** | Can we predict remaining useful life? | Feature engineering via SQL, exponential decay fit, linear regression |
 
 **End-of-Life threshold:** SOH < 80% (industry standard)
 
