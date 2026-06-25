@@ -98,11 +98,11 @@ Variables: Capacity (Ah), Internal Resistance (Ω), Voltage, Charge/Discharge Ti
 
 ---
 
-## 👤 Author
+## 🌟 About Me
 
-**Shakti** — M.Sc. IIT Bombay (Electrochemistry & Battery Research)  
-Anthropic AI Fluency Certified · Joining Prof. T. Pradeep's group, IIT Madras
+Hi There! I'm **Shakti Kumar Sahoo**, a graduate from IIT Bombay in Master's in Chemistry. I am coming from a non-tech background and getting to know about data and all cause I love to work with data. This is my project where I integrated my SQL,Python Learning with my Master-Thesis on Batteries. Hope you will like my work
 
----
+Let's stay in touch! Feel free to connect with me on the following platform:
 
-*Built as a portfolio project demonstrating domain expertise + SQL + Python data analysis skills.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shakti-kumar-sahoo-772aa0307)
+ 
